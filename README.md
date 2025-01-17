@@ -1,2 +1,2 @@
-# course_projects
-SAIT DS course projects 
+# Course Project -- SAIT Data Science Certificate
+DATA 036 Capstone Project on ...............
